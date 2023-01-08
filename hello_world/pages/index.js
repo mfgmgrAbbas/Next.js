@@ -16,7 +16,7 @@ export default function Home() {
       <meta name='keyword' content='blog'/>
     </Head>
     <div>
-      <b><h1 className={styles.title}> Hello! world. </h1></b><br></br>
+      <b><h1 className={styles.title}> Hello! world </h1></b><br></br>
           <p className={styles.text}> I am Abbas Shah and I am a highly skilled developer with experience in a wide range of technologies.</p>
           <p className={styles.text}> I am proficient in HTML and CSS, and have a strong understanding of web design principles. </p>
           <p className={styles.text}> I have also worked extensively with TypeScript, building scalable and reliable applications. </p>
